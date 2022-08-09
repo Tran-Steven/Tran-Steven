@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**Tran-Steven/Tran-Steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Steven, a 2nd year Computer Science major and aspiring full stack developer at the University of Georgia!
 
-Here are some ideas to get you started:
+I love to work with VSCode, personal projects and Emacs. I enjoy working with [Java](https://www.java.com),
+[JavaScript](https://www.javascript.com), and [React](https://reactjs.org). I'm interested in learning Python, Nodejs, and Express!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left">
+  <a href="https://www.github.com/tran-steven">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    alt="github"
+  />
+  </a>
+</p>

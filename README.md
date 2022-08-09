@@ -10,8 +10,6 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
 <div align="center">
     </br>
     </br>
-    </br>
-    </br>
     <p>Feel free to take a look at my repositories and get in touch!</p>
   <a href="https://www.github.com/tran-steven">
   <img

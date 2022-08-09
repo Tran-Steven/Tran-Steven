@@ -19,4 +19,6 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
        height="50"
   />
   </a>
+    <a href="mailto:stevenntran@outlook.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="50" height="50" /></a>
+  
 </div>

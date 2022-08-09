@@ -7,11 +7,13 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
 
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.github.com/tran-steven">
   <img
     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     alt="github"
+       width="200"
+       height="200"
   />
   </a>
 </p>

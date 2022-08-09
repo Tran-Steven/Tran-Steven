@@ -8,7 +8,7 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
 
 
 <p align="center">
-  <b>Feel free to take a look at my repositories and get in touch!</b>
+  <h4>Feel free to take a look at my repositories and get in touch!</h4>
   
   <a href="https://www.github.com/tran-steven">
   <img

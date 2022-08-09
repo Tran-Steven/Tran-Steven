@@ -7,7 +7,7 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
 
 
 
-<p align="center">
+<div align="center">
     <p>Feel free to take a look at my repositories and get in touch!</p>
   <a href="https://www.github.com/tran-steven">
   <img
@@ -27,4 +27,4 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
   />
   </a>
   
-</p>
+</div>

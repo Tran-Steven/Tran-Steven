@@ -17,7 +17,6 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
        height="80"
   />
       </a>
-      
     <a href="https://www.linkedin.com/in/steven-tran-26735b206">
       <img
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
@@ -26,5 +25,4 @@ I love to work with VSCode, personal projects and Emacs. I enjoy working with [J
        height="80"
   />
   </a>
-  
 </div>

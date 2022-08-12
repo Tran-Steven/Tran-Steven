@@ -5,7 +5,7 @@ I'm Steven, a 2nd year Computer Science major and aspiring full stack developer 
 I love to work with VSCode, personal projects and Emacs. I enjoy working with [Java](https://www.java.com),
 [JavaScript](https://www.javascript.com), and [React](https://reactjs.org).
 
-Currently interested in learning Python, Nodejs, and Express!
+Currently interested in learning Python, NodeJS, and Express!
 
 
 

@@ -5,9 +5,11 @@ I'm Steven, a 2nd year Computer Science major and aspiring full stack developer 
 I love to work with VSCode, personal projects and Emacs. I enjoy working with [Java](https://www.java.com),
 [JavaScript](https://www.javascript.com), and [React](https://reactjs.org).
 
-Currently interested in learning Python, NodeJS, and Express!
+Currently interested in learning Python, Node, and Express!
 
+<br>
 
+Current Project(s): [League of Wordle](https://github.com/Tran-Steven/leaguewordle) | [MultiPlaylist](https://github.com/Tran-Steven/MultiPlaylist) 
 
 <div align="center">
     </br>

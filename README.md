@@ -3,9 +3,9 @@
 I'm Steven, a 2nd year Computer Science major and aspiring full stack developer at the University of Georgia!
 
 I love to work with VSCode, personal projects and Emacs. I enjoy working with [Java](https://www.java.com),
-[JavaScript](https://www.javascript.com), and [React](https://reactjs.org).
+[TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org).
 
-Currently interested in learning Python, Node, and Express!
+Currently interested in learning Spring, Node, and PostgreSQL!
 
 <br>
 

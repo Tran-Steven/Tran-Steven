@@ -9,7 +9,7 @@ Currently interested in learning Spring, Node, and PostgreSQL!
 
 <br>
 
-Current Project(s): [League of Wordle](https://github.com/Tran-Steven/leaguewordle) | [MultiPlaylist](https://github.com/Tran-Steven/MultiPlaylist) 
+Current Project(s): [StockBets](https://github.com/Tran-Steven/StockBets) | [MultiPlaylist](https://github.com/Tran-Steven/MultiPlaylist) | [Rate My Airport] (https://github.com/Darren-Tham/Rate-My-Airport)
 
 <div align="center">
     </br>

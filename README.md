@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Steven, a 3rd year Computer Science major and aspiring full stack developer at the University of Georgia!
+I'm Steven, a 4th year Computer Science major and aspiring full stack developer at the University of Georgia!
 
 I love to work with VSCode, personal projects and Emacs. I enjoy working with [Java](https://www.java.com),
 [TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org).

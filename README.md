@@ -2,14 +2,14 @@
 
 I'm Steven, a 4th year Computer Science major and aspiring full stack developer at the University of Georgia!
 
-I love to work with VSCode, personal projects and [Neovim](https://github.com/Tran-Steven/neovim-config). I enjoy working with [Java](https://www.java.com),
-[TypeScript](https://www.typescriptlang.org/), and [React](https://reactjs.org).
+I love to work with VSCode, personal projects and [Neovim](https://github.com/Tran-Steven/neovim-config). I enjoy working with Java,
+TypeScript, and React.
 
 Currently interested in learning Spring, Node, and PostgreSQL! I keep notes on what I'm learning on my [Notion Page](https://steven-tran.notion.site/CS-Concept-Notes-a8ade4543472479ea0f3ff3a5263ad7f), check it out!
 
 <br>
 
-Current Project(s): [StockBets](https://github.com/Tran-Steven/StockBets) | [MultiPlaylist](https://github.com/Tran-Steven/MultiPlaylist) | [Rate My Airport](https://github.com/Darren-Tham/Rate-My-Airport)
+Current Project(s): [StockBets](https://github.com/Tran-Steven/StockBets) | [MultiPlaylist](https://github.com/Tran-Steven/MultiPlaylist)
 
 <div align="center">
     </br>
